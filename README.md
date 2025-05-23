@@ -1,4 +1,4 @@
-# 📘 IBM IT Project Manager Certification
+# 📘 IBM IT Project Manager Specialization
 
 This repository contains my capstone project, notes, and certifications from the **IBM & SkillUp EdTech IT Project Manager Specialization**, hosted on Coursera.
 
